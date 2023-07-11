@@ -2,7 +2,7 @@
 import { Alert, Button, FlatList, Keyboard, StyleSheet, Text, TextInput, Touchable, View } from 'react-native';
 import { useState } from 'react';
 import React from 'react'
-import TodoInput from '../../src/components/Todo/todoInput';
+import TodoInput from '../../src/components/Todo/TodoInput';
 import TodoList from '../../src/components/Todo/TodoList';
 
 const Todo = () => {

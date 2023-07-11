@@ -10,6 +10,8 @@ export default function App() {
       <Link href="/home" className="mt-[20px]">Home</Link>
       <Link href="/todo" className="mt-[20px]">Todo App</Link>
       <Link href="/testAPI" className="mt-[20px]">Test React Query</Link>
+      <Link href="/signUp" className="mt-[20px]">SignUp</Link>
+      <Link href="/signIn" className="mt-[20px]">SignIn</Link>
       <StatusBar style="auto" />
     </View>
   );
